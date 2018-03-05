@@ -13,7 +13,7 @@ Play Sudoku on your mirror. For those that use a keyboard and a mouse.
 ## Config.js entry and options
 
     {
-            disabled: f,
+            disabled: false,
             module: 'MMM-Sudoku',
             position: 'top_left',
         },
